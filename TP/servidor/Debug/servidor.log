@@ -1,0 +1,21 @@
+﻿  servidor.c
+C:\Users\User\Desktop\TrabalhoPratico\TP\servidor\servidor.c(220,19): warning C4244: 'função': conversão de 'time_t' para 'unsigned int', possível perda de dados
+C:\Users\User\Desktop\TrabalhoPratico\TP\servidor\servidor.c(232,8): warning C4101: 'msg': variável local não referenciada
+C:\Users\User\Desktop\TrabalhoPratico\TP\servidor\servidor.c(233,6): warning C4101: 'tempo': variável local não referenciada
+C:\Users\User\Desktop\TrabalhoPratico\TP\servidor\servidor.c(231,12): warning C4101: 'shMem': variável local não referenciada
+C:\Users\User\Desktop\TrabalhoPratico\TP\servidor\servidor.c(488,13): warning C4129: 'O': sequência de escape de caractere não reconhecida
+C:\Users\User\Desktop\TrabalhoPratico\TP\servidor\servidor.c(490,13): warning C4129: 'O': sequência de escape de caractere não reconhecida
+C:\Users\User\Desktop\TrabalhoPratico\TP\servidor\servidor.c(600,40): warning C4474: 'wprintf': excesso de argumentos transmitidos para cadeia de caracteres de formato
+C:\Users\User\Desktop\TrabalhoPratico\TP\servidor\servidor.c(600,40): message : espaços reservados e seus parâmetros esperam 0 argumentos variadic, mas 2 foram fornecidos
+C:\Users\User\Desktop\TrabalhoPratico\TP\servidor\servidor.c(594,8): warning C4101: 'buf': variável local não referenciada
+C:\Users\User\Desktop\TrabalhoPratico\TP\servidor\servidor.c(595,9): warning C4101: 'i': variável local não referenciada
+C:\Users\User\Desktop\TrabalhoPratico\TP\servidor\servidor.c(707,18): warning C4244: 'função': conversão de 'time_t' para 'unsigned int', possível perda de dados
+C:\Users\User\Desktop\TrabalhoPratico\TP\servidor\servidor.c(636,80): warning C4101: 'parValor2': variável local não referenciada
+C:\Users\User\Desktop\TrabalhoPratico\TP\servidor\servidor.c(640,8): warning C4101: 'command': variável local não referenciada
+C:\Users\User\Desktop\TrabalhoPratico\TP\servidor\servidor.c(639,116): warning C4101: 'hPipe': variável local não referenciada
+C:\Users\User\Desktop\TrabalhoPratico\TP\servidor\servidor.c(636,65): warning C4101: 'parValor': variável local não referenciada
+C:\Users\User\Desktop\TrabalhoPratico\TP\servidor\servidor.c(639,102): warning C4101: 'hThreadEnvia': variável local não referenciada
+C:\Users\User\Desktop\TrabalhoPratico\TP\servidor\servidor.c(637,20): warning C4101: 'i': variável local não referenciada
+C:\Users\User\Desktop\TrabalhoPratico\TP\servidor\servidor.c(637,16): warning C4101: 'op': variável local não referenciada
+C:\Users\User\Desktop\TrabalhoPratico\TP\servidor\servidor.c(639,90): warning C4101: 'hEventTemp': variável local não referenciada
+  servidor.vcxproj -> C:\Users\User\Desktop\TrabalhoPratico\TP\Debug\servidor.exe

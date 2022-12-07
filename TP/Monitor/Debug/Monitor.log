@@ -1,0 +1,12 @@
+﻿  monitor.c
+C:\Users\User\Desktop\TrabalhoPratico\TP\Monitor\monitor.c(93,8): warning C4101: 'msg': variável local não referenciada
+C:\Users\User\Desktop\TrabalhoPratico\TP\Monitor\monitor.c(257,7): warning C4101: 'tab': variável local não referenciada
+C:\Users\User\Desktop\TrabalhoPratico\TP\Monitor\monitor.c(295,12): warning C4101: 'mem': variável local não referenciada
+C:\Users\User\Desktop\TrabalhoPratico\TP\Monitor\monitor.c(292,80): warning C4101: 'parValor2': variável local não referenciada
+C:\Users\User\Desktop\TrabalhoPratico\TP\Monitor\monitor.c(293,8): warning C4101: 'lin_col': variável local não referenciada
+C:\Users\User\Desktop\TrabalhoPratico\TP\Monitor\monitor.c(298,8): warning C4101: 'command': variável local não referenciada
+C:\Users\User\Desktop\TrabalhoPratico\TP\Monitor\monitor.c(292,65): warning C4101: 'parValor': variável local não referenciada
+C:\Users\User\Desktop\TrabalhoPratico\TP\Monitor\monitor.c(296,9): warning C4101: 'tab': variável local não referenciada
+C:\Users\User\Desktop\TrabalhoPratico\TP\Monitor\monitor.c(291,7): warning C4101: 'hKey': variável local não referenciada
+C:\Users\User\Desktop\TrabalhoPratico\TP\Monitor\monitor.c(293,17): warning C4101: 'tempo_agua': variável local não referenciada
+  Monitor.vcxproj -> C:\Users\User\Desktop\TrabalhoPratico\TP\Debug\Monitor.exe

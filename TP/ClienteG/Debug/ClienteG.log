@@ -1,0 +1,12 @@
+﻿  ClienteG.c
+C:\Users\User\Desktop\TrabalhoPratico\TP\ClienteG\ClienteG.c(45,25): warning C4553: '==': o resultado da expressão não usado; você pretendia que fosse '='?
+C:\Users\User\Desktop\TrabalhoPratico\TP\ClienteG\ClienteG.c(47,25): warning C4553: '==': o resultado da expressão não usado; você pretendia que fosse '='?
+C:\Users\User\Desktop\TrabalhoPratico\TP\ClienteG\ClienteG.c(36,6): warning C4101: 'ret': variável local não referenciada
+C:\Users\User\Desktop\TrabalhoPratico\TP\ClienteG\ClienteG.c(66,9): warning C4101: 'y': variável local não referenciada
+C:\Users\User\Desktop\TrabalhoPratico\TP\ClienteG\ClienteG.c(68,7): warning C4101: 'c': variável local não referenciada
+C:\Users\User\Desktop\TrabalhoPratico\TP\ClienteG\ClienteG.c(66,6): warning C4101: 'x': variável local não referenciada
+C:\Users\User\Desktop\TrabalhoPratico\TP\ClienteG\ClienteG.c(64,9): warning C4101: 'hThreadMsg': variável local não referenciada
+C:\Users\User\Desktop\TrabalhoPratico\TP\ClienteG\ClienteG.c(390,16): warning C4133: 'função': tipos incompatíveis - de 'HDC' para 'HWND'
+C:\Users\User\Desktop\TrabalhoPratico\TP\ClienteG\ClienteG.c(161,6): warning C4101: 'xPos': variável local não referenciada
+C:\Users\User\Desktop\TrabalhoPratico\TP\ClienteG\ClienteG.c(161,12): warning C4101: 'yPos': variável local não referenciada
+  ClienteG.vcxproj -> C:\Users\User\Desktop\TrabalhoPratico\TP\Debug\ClienteG.exe
